@@ -69,11 +69,4 @@ jupyter notebook
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.  
 ```
 
----
 
-📌 **วิธีใช้ไฟล์ README.md**  
-1. สร้างไฟล์ `README.md` ใน **GitHub Repository** ของคุณ  
-2. คัดลอกโค้ดด้านบนแล้ววางลงในไฟล์  
-3. Commit และ Push ไฟล์ไปยัง Repository  
-
-หลังจากนั้น GitHub จะแสดง README.md บนหน้าแรกของ Repository 🎉🚀
